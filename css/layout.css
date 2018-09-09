@@ -204,6 +204,7 @@ ul#nav li.current a { color: #F06000; }
 #about p {
    line-height: 30px;
    color: #7A7A7A;
+   margin-bottom: 15px;
 }
 #about .profile-pic {
    position: relative;
@@ -211,7 +212,7 @@ ul#nav li.current a { color: #F06000; }
    height: 120px;
    border-radius: 100%;
 }
-#about .contact-details { width: 41.66667%; }
+#about .contact-details { width: 100%; }
 #about .download {
    width: 58.33333%;
    padding-top: 6px;
